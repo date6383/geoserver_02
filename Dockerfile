@@ -1,1 +1,1 @@
-from tomcat
+from tomcat:8
